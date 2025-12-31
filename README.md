@@ -2,10 +2,11 @@
 
 I'm a **Senior Software Engineer** passionate about building scalable backend system architecture.
 
-### 🛠 Tech Stack
+### 🛠 Recent Tech Stack
 
-- **Languages:** TypeScript, Python, Java, SQL
-- **Frameworks:** NestJs, Node.js, FatAPI, Django, SpringBoot, Tailwind CSS
+- **Languages:** TypeScript, Python
+- **Frameworks:** NestJS, FastAPI, Angular
+- **Database:** PostgreSQL, MongoDB, Redis
 - **Tools:** Git, Docker, AWS, Kubernetes
 
 ### 🚀 Currently Working On
