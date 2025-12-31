@@ -1,15 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Tanbir! 👋
 
+I'm a **Senior Software Engineer** passionate about building scalable backend system architecture.
 
-**iamtanbirahmed/iamtanbirahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
 
-Here are some ideas to get you started:
+- **Languages:** TypeScript, Python, Java, SQL
+- **Frameworks:** NestJs, Node.js, FatAPI, Django, SpringBoot, Tailwind CSS
+- **Tools:** Git, Docker, AWS, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 Currently Working On
+- 🔭 I’m currently working on [**Kubernetes Examples**](https://github.com/iamtanbirahmed/kubernetes-examples)
+- 🌱 I’m currently learning **AWS CDK & Kuebernetes Integration**
+- 💬 Ask me about **System Architecture**
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtanbirahmed&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtanbirahmed&layout=compact&theme=radical)
+
+### 📫 How to reach me
+- **LinkedIn:** [linkedin.com/in/tanbir-ahmed-s](www.linkedin.com/in/tanbir-ahmed-s)
