@@ -21,4 +21,4 @@ I'm a **Senior Software Engineer** passionate about building scalable backend sy
 -->
 
 ### 📫 How to reach me
-- **LinkedIn:** [linkedin.com/in/tanbir-ahmed-s](www.linkedin.com/in/tanbir-ahmed-s)
+- **LinkedIn:** [linkedin.com/in/tanbir-ahmed-s](https://www.linkedin.com/in/tanbir-ahmed-s)
