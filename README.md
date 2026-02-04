@@ -14,6 +14,10 @@ I'm a **Senior Software Engineer** passionate about building scalable backend sy
 - 🌱 I’m currently learning **AWS CDK & Kuebernetes Integration**
 - 💬 Ask me about **System Architecture**
 
+### 📝 Lead Author
+- [De-Identification of Electronic Health Records Using Neural Networks. Sci Rep 10, 18600 (2020)](https://doi.org/10.1038/s41598-020-75544-1)
+- [Privacy-Preserving Neural Networks for Electronic Health Records De-Identification. ACM BCB’21.](https://dl.acm.org/doi/10.1145/3459930.3469555)
+- [Privacy-Preserving Medical Text Data Publishing with Machine Learning. Encyclopedia of Machine Learning and Data Science](https://doi.org/10.1007/978-1-4899-7502-7_989-1)
 <!--
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtanbirahmed&show_icons=true&theme=radical)
