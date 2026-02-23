@@ -1,36 +1,49 @@
 # Hi there, I'm Tanbir! 👋
 
-I'm a **Senior Software Engineer** passionate about building scalable backend system architecture.
+I'm a **Senior Software Engineer** based in Ottawa, specializing in **Scalable Backend Architectures** and **Cloud-Native Infrastructure**. My engineering philosophy bridges the gap between high-performance system design and data privacy, drawing from my published research in **Privacy-Preserving Machine Learning**.
 
-### 🛠 Current Tech Stack
+---
 
-- **Languages:** TypeScript, Python, Java
-- **Frameworks:** NestJS, FastAPI, SpringBoot
-- **Database:** PostgreSQL, MongoDB, Redis
-- **Tools:** Git, Docker, AWS, Kubernetes
+### 🛠 Core Tech Stack
 
-### 🚀 Currently Working On
-- 🔭 I’m currently working on [**Kubernetes Examples**](https://github.com/iamtanbirahmed/kubernetes-examples)
-- 🌱 I’m currently learning **AWS CDK & Kuebernetes Integration**
-- 💬 Ask me about **System Architecture**
+- **Languages:** TypeScript, Java, Python, SQL
+- **Backend:** NestJS, Spring Boot (3.x), FastAPI
+- **Cloud & Ops:** AWS (CDK, EKS, Lambda), Kubernetes, Helm, Docker
+- **Data & Messaging:** PostgreSQL, Redis, RabbitMQ, MongoDB
 
-### 📝 Lead Author
-- [De-Identification of Electronic Health Records Using Neural Networks. Sci Rep 10, 18600 (2020)](https://doi.org/10.1038/s41598-020-75544-1)
-- [Privacy-Preserving Neural Networks for Electronic Health Records De-Identification. ACM BCB’21.](https://dl.acm.org/doi/10.1145/3459930.3469555)
-- [Privacy-Preserving Medical Text Data Publishing with Machine Learning. Encyclopedia of Machine Learning and Data Science](https://doi.org/10.1007/978-1-4899-7502-7_989-1)
-<!--
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtanbirahmed&show_icons=true&theme=radical)
+---
+
+### 🚀 Currently Building
+- 🔭 **Cloud Infrastructure:** Experimenting with a monorepo architecture with using **AWS CDK, Nx & NestJs**.
+- 💬 **Ask me about:** System Architecture, OAuth2/OIDC, and GitOps workflows.
+
+---
+
+## 🗂️ Engineering Projects & System Design
+
+| Domain | Architecture & System Impact | Tech Stack | Artifacts |
+| :--- | :--- | :--- | :--- |
+| **Cloud-Native & Monorepos** | Architected an **Nx Monorepo** managing shared **NestJS** microservices. Engineered a **GitHub Actions** CI/CD pipeline leveraging `nx affected` to intelligently provision/update **Amazon EKS** clusters via **Helm**. | AWS CDK, EKS, Helm,<br>Nx, GitHub Actions | [**Kubernetes Examples**](https://github.com/iamtanbirahmed/kubernetes-examples) |
+| **Identity & Distributed Security** | Engineered a comprehensive **OAuth2/OIDC** server using **Spring Security**. Implemented **Authorization Code Flow with PKCE** and **RSA Asymmetric Encryption** for stateless, fine-grained **RBAC**. | Spring Boot 3, JWT,<br>Nimbus JOSE, Hibernate | [**Spring Security OAuth2**](https://github.com/iamtanbirahmed/oauth2-jwt-demo) |
+| **Event-Driven Messaging** | Developed a high-throughput **Asynchronous Messaging Gateway** using **RabbitMQ**. Implemented **Direct, Topic, and Fanout** routing patterns with Dead Letter Exchanges (DLX) for resilient task processing. | RabbitMQ, AMQP,<br>Spring Boot, Docker | [**Real-Time Messaging**](https://github.com/iamtanbirahmed/real-time-comm) <br> [**Medium Article**](https://medium.com/codex/rabbitmq-springboot-for-real-time-messaging-e450bde4e8cc) |
+
+---
+
+### 🎓 Research & Publications (Privacy Engineering)
+*My academic background in data privacy informs my approach to building secure, de-identified distributed systems.*
+
+* **De-Identification of Electronic Health Records** Using Neural Networks. *Nature Sci Rep 10, 18600 (2020)*. [Read Paper](https://doi.org/10.1038/s41598-020-75544-1)
+* **Privacy-Preserving Neural Networks** for EHR De-Identification. *ACM BCB’21*. [Read Paper](https://dl.acm.org/doi/10.1145/3459930.3469555)
+* **Privacy-Preserving Medical Text Data Publishing** with Machine Learning. *Encyclopedia of Machine Learning*. [Read Chapter](https://doi.org/10.1007/978-1-4899-7502-7_989-1)
+
+---
+
+### 📊 Vital Signs
+![Tanbir's Stats](https://github-readme-stats.vercel.app/api?username=iamtanbirahmed&show_icons=true&theme=radical&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtanbirahmed&layout=compact&theme=radical)
--->
 
-### 📫 How to reach me
+---
+
+### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/tanbir-ahmed-s](https://www.linkedin.com/in/tanbir-ahmed-s)
-
-## 🗂️ Core Competencies & Projects
-
-| Core Competency | Objective | Languages/Tools | Associated Project | Article
-| :--- | :--- | :--- | :--- | :--- |
-| **Cloud-Native Infrastructure & Monorepo Architecture** | Architected a unified **Nx Monorepo** to manage shared **NestJS** microservices and **AWS CDK** infrastructure. Engineered a robust **GitHub Actions** CI/CD pipeline that leverages `nx affected` to intelligently provision and update an **Amazon EKS** cluster. Implemented scalable deployment patterns using **Helm** charts to ensure consistent environment configuration and streamlined service orchestration. | Nx Monorepo<br>AWS CDK / IaC<br>Amazon EKS<br>NestJS<br>Kubernetes / Helm<br>GitHub Actions | [**Kubernetes Examples**](https://github.com/iamtanbirahmed/kubernetes-examples) | <br> | 
-| **Identity Management & Distributed Security** | Engineered a comprehensive **OAuth2 Authorization Server** and **Resource Server** using **Spring Boot Security**. Implemented the **Authorization Code Flow with PKCE** to secure modern client applications. Designed a stateless security architecture using **JWT (JSON Web Tokens)** with custom claims and RSA asymmetric encryption. Features fine-grained **Role-Based Access Control (RBAC)** to ensure secure, scoped access across distributed microservices. | Spring Boot <br>Spring Security<br>OAuth2 / OIDC<br>JWT <br>Hibernate <br>PostgreSQL | [**Spring Security OAuth2**](https://github.com/iamtanbirahmed/oauth2-jwt-demo) | <br> |
-| **Event-Driven Messaging & Distributed Task Queues** | Architected a scalable **Asynchronous Messaging System** using **Spring Boot** and **RabbitMQ**. Engineered a dual-mode communication layer supporting **Direct**, **Topic**, and **Fanout** exchanges for decoupled microservice interaction | Spring Boot <br>RabbitMQ <br>Docker<br>Event-Driven Architecture<br>Maven | [**Real-Time Messaging**](https://github.com/iamtanbirahmed/real-time-comm) | [Medium](https://medium.com/codex/rabbitmq-springboot-for-real-time-messaging-e450bde4e8cc) | 
+- **Medium:** [@iamtanbirahmed](https://medium.com/@iamtanbirahmed)
