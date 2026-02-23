@@ -19,16 +19,6 @@ I'm a **Senior Software Engineer** based in Ottawa, specializing in **Scalable B
 
 ---
 
-## 🗂️ Engineering Projects & System Design
-
-| Domain | Architecture & System Impact | Tech Stack | Artifacts |
-| :--- | :--- | :--- | :--- |
-| **Cloud-Native & Monorepos** | Architected an **Nx Monorepo** managing shared **NestJS** microservices. Engineered a **GitHub Actions** CI/CD pipeline leveraging `nx affected` to intelligently provision/update **Amazon EKS** clusters via **Helm**. | AWS CDK, EKS, Helm,<br>Nx, GitHub Actions | [**Kubernetes Examples**](https://github.com/iamtanbirahmed/kubernetes-examples) |
-| **Identity & Distributed Security** | Engineered a comprehensive **OAuth2/OIDC** server using **Spring Security**. Implemented **Authorization Code Flow with PKCE** and **RSA Asymmetric Encryption** for stateless, fine-grained **RBAC**. | Spring Boot 3, JWT,<br>Nimbus JOSE, Hibernate | [**Spring Security OAuth2**](https://github.com/iamtanbirahmed/oauth2-jwt-demo) |
-| **Event-Driven Messaging** | Developed a high-throughput **Asynchronous Messaging Gateway** using **RabbitMQ**. Implemented **Direct, Topic, and Fanout** routing patterns with Dead Letter Exchanges (DLX) for resilient task processing. | RabbitMQ, AMQP,<br>Spring Boot, Docker | [**Real-Time Messaging**](https://github.com/iamtanbirahmed/real-time-comm) <br> [**Medium Article**](https://medium.com/codex/rabbitmq-springboot-for-real-time-messaging-e450bde4e8cc) |
-
----
-
 ### 🎓 Research & Publications (Privacy Engineering)
 *My academic background in data privacy informs my approach to building secure, de-identified distributed systems.*
 
@@ -38,12 +28,14 @@ I'm a **Senior Software Engineer** based in Ottawa, specializing in **Scalable B
 
 ---
 
-### 📊 Vital Signs
-![Tanbir's Stats](https://github-readme-stats.vercel.app/api?username=iamtanbirahmed&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtanbirahmed&layout=compact&theme=radical)
+## 🗂️ Engineering Projects & System Design
 
+| Domain | Architecture & System Impact | Tech Stack | Artifacts |
+| :--- | :--- | :--- | :--- |
+| **Cloud-Native & Monorepos** | Architected an **Nx Monorepo** managing shared **NestJS** microservices. Engineered a **GitHub Actions** CI/CD pipeline leveraging `nx affected` to intelligently provision/update **Amazon EKS** clusters via **Helm**. | AWS CDK, EKS, Helm,<br>Nx, GitHub Actions | [**Kubernetes Examples**](https://github.com/iamtanbirahmed/kubernetes-examples) |
+| **Identity & Distributed Security** | Engineered a comprehensive **OAuth2/OIDC** server using **Spring Security**. Implemented **Authorization Code Flow with PKCE** and **RSA Asymmetric Encryption** for stateless, fine-grained **RBAC**. | Spring Boot 3, JWT,<br>Nimbus JOSE, Hibernate | [**Spring Security OAuth2**](https://github.com/iamtanbirahmed/oauth2-jwt-demo) |
+| **Event-Driven Messaging** | Developed a high-throughput **Asynchronous Messaging Gateway** using **RabbitMQ**. Implemented **Direct, Topic, and Fanout** routing patterns with Dead Letter Exchanges (DLX) for resilient task processing. | RabbitMQ, AMQP,<br>Spring Boot, Docker | [**Real-Time Messaging**](https://github.com/iamtanbirahmed/real-time-comm) <br> [**Medium Article**](https://medium.com/codex/rabbitmq-springboot-for-real-time-messaging-e450bde4e8cc) |
 ---
-
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/tanbir-ahmed-s](https://www.linkedin.com/in/tanbir-ahmed-s)
-- **Medium:** [@iamtanbirahmed](https://medium.com/@iamtanbirahmed)
+- **Medium:** [@iamtanbirahmed](https://medium.com/@tanbir-sagar)
